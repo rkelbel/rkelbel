@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I unfortunately no longer work in Github repositories regularly, but I am an active developer as of 2025.
+
+If I have any personal projects that bring me back to Github in the meantime, I'll try to pin them here and add some details here to welcome you with more info.
+
 <!--
 **rkelbel/rkelbel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
